@@ -1,7 +1,6 @@
 body {
     font-family: 'Arial', sans-serif;
-    margin: 0;
-    padding: 0;
+    
     background-color: rgb(232, 232, 76);
 }
 
@@ -43,17 +42,8 @@ h2 {
     color: #333;
 }
 
-.menu-item1 {
-    margin-bottom: 30px;
-    display: flex; 
-    align-items: center; 
-}
 
-.menu-item1 img {
-    max-width: 100%;
-    border-radius: 5px;
-    margin-right: 20px;
-}
+
 
 
 footer {

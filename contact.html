@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact Us - Gita's Cafe</title>
+    <style>
+        body {
+
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            padding: 20px;
+            background-color:black
+        }
+        header {
+            text-align: center;
+            padding: 20px;
+            background-color: #333;
+            color: #fff;
+        }
+        section {
+            margin-top: 20px;
+        }
+        form {
+            max-width: 600px;
+            margin-left: 200px;
+            
+        }
+        label {
+            display: block;
+            margin-bottom: 8px;
+            color: rgb(112, 110, 110);
+        }
+        input,
+        textarea {
+            width: 100%;
+            padding: 8px;
+            margin-bottom: 16px;
+            box-sizing: border-box;
+        }
+        button {
+            display: block;
+            background-color: rgb(200, 0, 0);
+            color: white;
+            border: none;
+            border-color: rgb(52, 2, 2);
+            height: 36px;
+            width: 105px;
+            border-radius: 4px;
+            border-width: 1px;
+            cursor:pointer;
+            margin-top: 5px;
+            margin-right: 10px;
+            cursor: pointer;
+        }
+        button:hover{
+            cursor: pointer;
+            transition-duration: 1s;
+         background-color: red;
+box-shadow: 10px 10px 10px rgb(96, 93, 93);
+        }
+        .title{
+            margin-left: 200px;
+            color: rgb(112, 110, 110);
+        }
+        .paragraph{
+            margin-left: 200px;
+            color: rgb(112, 110, 110);
+        }
+        .box{
+            border-radius: 8px;
+            border-width: 8px rgb(81, 81, 81)
+            ;
+            box-shadow: 6px 6px 6px rgb(96, 96, 96);
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Gita's Cafe</h1>
+        <p>Savor the Moment: Where Every Bite is a Culinary Delight and Every Corner Embraces You in Warmth.</p>
+    </header>
+
+    <section>
+        <h2 class="title">Contact Us :</h2>
+        <p class="paragraph">Have a question or feedback? Reach out to us using the form below:</p>
+
+        <form action="#" method="post">
+            <label for="name">Your Name:</label>
+            <input class="box"type="text" id="name" name="name" required>
+
+            <label for="email">Your Email:</label>
+            <input class="box"type="email" id="email" name="email" required>
+
+            <label for="message">Your Message:</label>
+            <textarea class="box" id="message" name="message" rows="4" required></textarea>
+
+            <button type="submit">Submit</button>
+        </form>
+    </section>
+
+    <section>
+        <h2 class="title">Visit Us :</h2>
+        <p class="paragraph">We would love to see you in person! Visit Gita's Cafe at:</p>
+        <address class="paragraph">
+            Sainamaina-10,Rupandehi<br>
+            Saljhandi,Durga marg<br>
+            Phone: 9816413787
+        </address>
+    </section>
+
+    <footer>
+        <p class="paragraph">For general inquiries, contact us at: <a href="mailto:surajansth1995@gmail.com">info@gitascafe.com</a></p>
+    </footer>
+</body>
+</html>

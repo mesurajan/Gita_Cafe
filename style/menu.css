@@ -1,0 +1,80 @@
+
+.menu-item1 {
+    margin-bottom: 30px;
+    display: flex; 
+    align-items: center; 
+}
+.menu{
+    color: rgb(163, 163, 163);
+    text-align: center;
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
+.title{
+    color: rgb(163, 163, 163);
+    margin-left: 250px;
+}
+
+.paragraph1{
+    color: rgb(163, 163, 163);
+    width: 500px;
+}
+.paragraph2{
+    color: rgb(163, 163, 163);
+    width: 500px;
+}
+.paragraph3{
+    color: rgb(163, 163, 163);
+    width: 500px;
+}
+.paragraph4{
+    color: rgb(163, 163, 163);
+    width: 500px;
+}
+.paragraph5{
+    color: rgb(163, 163, 163);
+    width: 500px;
+}
+.paragraph6{
+    color: rgb(163, 163, 163);
+    width: 500px;
+}
+.paragraph7{
+    color: rgb(163, 163, 163);
+    width: 500px;
+}
+.paragraph8{
+    color: rgb(163, 163, 163);
+    width: 500px;
+}
+.image1,
+.image2,
+
+.image4,
+.image5,
+.image6,
+.image7,
+.image8
+
+{
+    width: 300px;
+    margin-left: 250px;
+    margin-right: 30px;
+}
+.image3
+{
+    height: 300px;
+    width: 350px;
+    margin-left: 250px;
+    margin-right: 30px;
+}
+.image4
+{
+    height: 300px;
+    width: 350px;
+    margin-left: 250px;
+    margin-right: 30px;
+}
+body{
+    background-color: black;
+}
