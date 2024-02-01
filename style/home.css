@@ -1,0 +1,95 @@
+
+.paragraph{
+    color: rgb(114, 110, 110);
+    margin-left: 150px;
+}
+.image2-container {
+            display: flex;
+            align-items: center; 
+            margin-left: 150px;
+        }
+
+ .image{
+    margin-left: 150px;
+    width: 345px;
+
+ }  
+ .image1{
+    margin-left: 20px;
+    width: 300px;
+ }     
+.image2{
+    margin-right: 20px;
+    width: 500px;
+}
+.image3{
+    margin-left: 20px;
+    width: 330px;
+}
+.image4{
+    margin-left:150px;
+    margin-top: 10px;
+    width: 300px;
+    height: 300px;
+}
+.image5{
+    margin-left:35px;
+    margin-top: 10px;
+    width: 300px;
+    height: 300px;
+}
+.image6{
+    margin-left:35px;
+    margin-top: 10px;
+    width: 300px;
+    height: 300px;
+}
+.paragraph2{
+    margin-left: 45px;
+    width: 350px;
+    color: rgb(114, 110, 110);
+}
+
+.OUR-MENU1{
+   
+    background-color: rgb(200, 0, 0);
+    color: white;
+    border: none;
+    border-color: rgb(52, 2, 2);
+    height: 36px;
+    width: 105px;
+    border-radius: 4px;
+    border-width: 1px;
+    cursor:pointer;
+    margin-top: 5px;
+    margin-right: 10px;
+    margin-left: 150px;
+
+
+}
+.OUR-MENU1:hover{
+background-color: red;
+  transition-duration: 1s;
+  box-shadow: 10px 10px 10px black ;
+}
+.menu_image{
+    margin-left: 150px;
+}
+.paragraph3{
+    color: rgb(114, 110, 110);
+    margin-left: 150px;
+    margin-top: 45px;
+    font-size: 25px;
+    margin-bottom: 10px;
+}
+.paragraph4{
+    color: rgb(114, 110, 110);
+    margin-left: 150px;
+    margin-top: 8px;
+    margin-bottom: 6px;
+}
+.paragraph5{
+    color: rgb(114, 110, 110);
+    margin-left: 150px;
+    margin-bottom: 8px;
+}

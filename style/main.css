@@ -1,7 +1,12 @@
 body {
     font-family: 'Arial', sans-serif;
     
-    background-color: rgb(232, 232, 76);
+   background-color: black;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    margin: 0;
+    padding: 0;
 }
 
 header {
